@@ -1,6 +1,7 @@
-![alt text][logo]
-
 [logo]: http://kforms.io/docs/v1/images/Kforms3.png
+[pagesGif]: http://kforms.io/wp-content/uploads/2016/05/multiple-pages-gif-with-ipad-frame-grey-contour.gif
+
+![alt text][logo]
 ___
 ### **What is it?**
 
@@ -12,6 +13,8 @@ Kforms streamlines the process of integrating forms into an application, allowin
 During the development and lifetime of an application the requirements for the application will inevitably change. It should be easy to adapt the functionality of your forms to ever-changing requirements with minimal development work required. Kforms makes it possible to tweak the behavior of forms in minutes rather than the hours, days, or weeks it would normally take. 
 
 From a simple customer feedback survey to a 50 page home inspection form, Kforms can scale to handle forms of any size or complexity. The library has built in support for conditionally displaying fields, sections, and pages as the user is in the process of filling out the form. You can even bind fields to external data sets so dropdown lists are always up to date with the latest data in your system with no code change required. That's just scratching the surface of the powerful data collection functionality Kforms can bring to your application.
+
+![alt text][pagesGif]
 
 ### **Where do I start?**
 

@@ -1,1 +1,142 @@
-KORDATA   DEVELOPMENT END USER LICENSE AGREEMENTIMPORTANT- READ CAREFULLY BEFORE INSTALLING THE SOFTWARE.      This Development End User License Agreement (this “EULA”) contains the terms and conditions regarding your use of the Software and material limitations to your rights in that regard. You should read this EULA carefully. By installing the Kordata kForms™ software (the “Software”), you are accepting and agreeing to the following terms and conditions:I.	THIS EULA.       1.	Software Covered by this EULA.      This EULA governs your use of the Software enclosed either as part of a Software installer or otherwise accompanied herewith. The term “Software” includes, to the extent provided by Kordata: 1) any revisions, updates, or upgrades thereto; 2) any data, image or executable files, databases, data engines, computer software, or similar items customarily used or distributed with computer software products; 3) anything in any form whatsoever intended to be used with or in conjunction with the Software; and 4) any associated media, documentation (including physical, electronic and online) and printed materials (the “Documentation”).       2.	This EULA is a legal agreement between you and Kordata.      If you are acting as an agent of a company or another legal person, such as an officer or other employee acting for your employer, then “you” and “your” mean your principal, the entity or other legal person for whom you are acting. However, importantly, even if you are acting as an agent for another, you may still be personally liable for violation of laws such as copyright infringement.       This EULA is a legal agreement between you and Kordata, LLC, an Idaho limited liability company (“Kordata”). You intend to be legally bound to this EULA to the same extent as if Kordata and you physically signed this EULA. By installing, copying, or otherwise using the Software, you agree to be bound by the terms and conditions contained in this EULA. If you do not agree to all of the terms and conditions contained in this EULA, you may not install or use the Software. If you have already installed or begun to install the Software you should cancel any install in progress and uninstall the Software.II.	KEY DEFINITIONS.       The following capitalized terms as used in this EULA have the following meanings:       “Developed Software” means those computer software products that are developed by or through the use of the Software, including, without limitation, any software products that contain the all or any part of the Software as a component or which are derivatives of the Software.      “Developer” means a person using the Software in accordance with the terms and conditions of this EULA.      “Developer Seat” is the use of one “per Seat” licensed copy of the Software by one concurrent Developer.      “Network Server” means a computer with one or more computer central processing units (CPU’s) that operates for the purpose of serving other computers logically or physically connected to it, including, but not limited to, other computers connected to it on an internal network, intranet or the Internet.      “Seat” is a computer on which the Software is installed.III.	YOUR DEVELOPMENT LICENSE.       As detailed below, this EULA solely grants you a license to use the Software to develop other software products (a “Development License”). This EULA does not grant you a license to distribute, publish, or make commercial use of the Software or Developed Software. If you wish to distribute, publish, or make commercial use of Developed Software you must first purchase a distribution license from Kordata.       1.	Your Development License.      You are hereby granted a limited, royalty-free, non-exclusive right to use the Software to design, develop, and test Developed Software, on the express condition that, and only for so long as, you fully comply with all terms and conditions of this EULA.       The Software is licensed to you on a per Seat basis. Every machine installing, running and/or using the Software for development purposes must have a licensed copy and its appropriate Development License. You may not network the Software or any component part of it where it is or may be used by more than one Developer unless you obtain an additional Development License for each Developer. You must obtain another Development License to the Software in order to add additional Developer Seats if the additional Developers are accessing the Software on a Network Server.      In all cases, you may not use Kordata’s name, logo, or trademarks without the express written consent of Kordata.      In all cases, you may use the Software only to create Developed Software that is significantly different than the Software. You may not use the Software to create or modify any libraries or databases, only to create new applications.      2.	Updates/Upgrades.       Subject to the terms and conditions of this EULA, the Development License is perpetual. Kordata is solely responsible for providing any and all support services for the Software. Updates, bug fixes and upgrades to the Software may be provided by Kordata at its discretion at timely intervals though Kordata does not commit to providing such updates or upgrades, and, if so provided by Kordata, are provided upon the terms and conditions offered at that time by Kordata.IV.	INTELLECTUAL PROPERTY.       1.	Copyright.      You agree that all right, title, and interest in and to the Software (including, but not limited to, any images, photographs, code examples and text incorporated into the Software), and any copies of the Software, and any copyrights and other intellectual properties therein or related thereto are owned exclusively by Kordata, except to the limited extent that Kordata may be the rightful license holder of certain third-party technologies incorporated into the Software. The Software is protected by copyright laws and international treaty provisions. The Software is licensed to you, not sold to you. Kordata reserves all rights not otherwise expressly and specifically granted to you in this EULA.       2.	Backups.      You may make one copy the Software solely for backup or archival purposes.      3.	General Limitations.      You may not reverse engineer, decompile, or disassemble the Software, except and only to the extent that applicable law expressly permits such activity notwithstanding this limitation.       4.	Termination.       Without prejudice to any other rights it may have, Kordata may terminate this EULA and the Development License if you fail to comply with the terms and conditions contained herein. In such an event, you must destroy all copies of the Software and all of its component parts. V.	DISCLAIMER AND WARRANTIES.      1.	Disclaimer.       Kordata’s entire liability and your exclusive remedy under this EULA shall be, at Kordata’s sole option, to terminate this EULA or repair the Software through updates distributed by Kordata via means chosen by Kordata in its sole discretion. Kordata cannot and does not guarantee that any functions contained in the Software will meet your requirements, or that its operations will be error free. The entire risk as to the Software performance or quality, or both, is solely with the user and not Kordata. You assume responsibility for the selection of the component to achieve your intended results, and for the installation, use, and results obtained from the Software. No other individual or entity shall have any liability with respect to this EULA or the Software.       2.	Warranty.       Kordata makes no warranty, to the maximum extent permitted by law, either implied or expressed, including with-out limitation any warranty with respect to this Software documented here, its quality, performance, or fitness for a particular purpose. In no event shall Kordata be liable to you for damages, whether direct or indirect, incidental, special, or consequential arising out the use of or any defect in the Software, even if Kordata has been advised of the possibility of such damages, or for any claim by any other party. All other warranties of any kind, either express or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose, are expressly excluded. No other individual or entity makes any representation or warranty with respect to the Software.VI.	MISCELLANEOUS.       1.	Entire Agreement.       This EULA (including any addendum or amendment to this EULA included with the Software) is the final, complete and exclusive statement of the entire agreement between you and Kordata relating to the Software. This EULA supersedes any prior and contemporaneous proposals, purchase orders, advertisements, and all other communications in relation to the subject matter of this EULA, whether oral or written. No terms or conditions, other than those contained in this EULA, and no other understanding or agreement which in any way modifies these terms and conditions, shall be binding upon the parties unless entered into in writing executed between the parties, or by other non-oral manner of agreement whereby the parties objectively and definitively act in a manner to be bound (such as by continuing with an installation of the Software, “clicking-through” a questionnaire, etc.) Employees, agents and other representatives of Kordata are not permitted to orally modify this EULA.       2.	Indemnification.       You agree to indemnify, hold harmless, and defend Kordata and its suppliers and resellers from and against any and all claims or lawsuits, including attorney’s fees, that arise or result from this EULA (including from any Developed Software).       3.	Interpretation.       If for any reason a court of competent jurisdiction finds any provision of this EULA, or any portion thereof, to be unenforceable, that provision of this EULA will be enforced to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this EULA will continue in full force and effect. Formatives of defined terms shall have the same meaning of the defined term. Failure by either party to enforce any provision of this EULA will not be deemed a waiver of future enforcement of that or any other provision. This EULA shall be governed in all respects by the internal laws of the State of Idaho (excluding conflict of laws principles) and without regard to the U.N. Convention on Contracts for the International Sale of Goods. Any dispute regarding this EULA shall be subject to the exclusive jurisdiction of and venue within the state or federal courts located in Ada County, Idaho, and you agree to submit to the personal and exclusive jurisdiction and venue of these courts. 
+KORDATA  
+ 
+DEVELOPMENT END USER LICENSE AGREEMENT
+IMPORTANT- READ CAREFULLY BEFORE INSTALLING THE SOFTWARE.
+      This Development End User License Agreement (this "EULA") contains the terms and 
+conditions regarding your use of the Software and material limitations to your rights in that 
+regard. You should read this EULA carefully. By installing the Kordata kforms software (the 
+"Software"), you are accepting and agreeing to the following terms and conditions:
+I.	THIS EULA. 
+      1.	Software Covered by this EULA.
+      This EULA governs your use of the Software enclosed either as part of a Software 
+installer or otherwise accompanied herewith. The term "Software" includes, to the extent 
+provided by Kordata: 1) any revisions, updates, or upgrades thereto; 2) any data, image or 
+executable files, databases, data engines, computer software, or similar items customarily used or 
+distributed with computer software products; 3) anything in any form whatsoever intended to be 
+used with or in conjunction with the Software; and 4) any associated media, documentation 
+(including physical, electronic and online) and printed materials (the "Documentation"). 
+      2.	This EULA is a legal agreement between you and Kordata.
+      If you are acting as an agent of a company or another legal person, such as an officer or 
+other employee acting for your employer, then "you" and "your" mean your principal, the entity 
+or other legal person for whom you are acting. However, importantly, even if you are acting as 
+an agent for another, you may still be personally liable for violation of laws such as copyright 
+infringement. 
+      This EULA is a legal agreement between you and Kordata, LLC, an Idaho limited 
+liability company ("Kordata"). You intend to be legally bound to this EULA to the same extent 
+as if Kordata and you physically signed this EULA. By installing, copying, or otherwise using 
+the Software, you agree to be bound by the terms and conditions contained in this EULA. If you 
+do not agree to all of the terms and conditions contained in this EULA, you may not install or use 
+the Software. If you have already installed or begun to install the Software you should cancel any 
+install in progress and uninstall the Software.
+II.	KEY DEFINITIONS. 
+      The following capitalized terms as used in this EULA have the following meanings: 
+      "Developed Software" means those computer software products that are developed by or 
+through the use of the Software, including, without limitation, any software products that contain 
+the all or any part of the Software as a component or which are derivatives of the Software.
+      "Developer" means a person using the Software in accordance with the terms and 
+conditions of this EULA.
+      "Developer Seat" is the use of one "per Seat" licensed copy of the Software by one 
+concurrent Developer.
+      "Network Server" means a computer with one or more computer central processing units 
+(CPU's) that operates for the purpose of serving other computers logically or physically 
+connected to it, including, but not limited to, other computers connected to it on an internal 
+network, intranet or the Internet.
+      "Seat" is a computer on which the Software is installed.
+III.	YOUR DEVELOPMENT LICENSE. 
+      As detailed below, this EULA solely grants you a license to use the Software to develop 
+other software products (a "Development License"). This EULA does not grant you a license to 
+distribute, publish, or make commercial use of the Software or Developed Software. If you wish 
+to distribute, publish, or make commercial use of Developed Software you must first purchase a 
+distribution license from Kordata. 
+      1.	Your Development License.
+      You are hereby granted a limited, royalty-free, non-exclusive right to use the Software to 
+design, develop, and test Developed Software, on the express condition that, and only for so long 
+as, you fully comply with all terms and conditions of this EULA. 
+      The Software is licensed to you on a per Seat basis. Every machine installing, running 
+and/or using the Software for development purposes must have a licensed copy and its 
+appropriate Development License. You may not network the Software or any component part of 
+it where it is or may be used by more than one Developer unless you obtain an additional 
+Development License for each Developer. You must obtain another Development License to the 
+Software in order to add additional Developer Seats if the additional Developers are accessing 
+the Software on a Network Server.
+      In all cases, you may not use Kordata's name, logo, or trademarks without the express 
+written consent of Kordata.
+      In all cases, you may use the Software only to create Developed Software that is 
+significantly different than the Software. You may not use the Software to create or modify any 
+libraries or databases, only to create new applications.
+      2.	Updates/Upgrades. 
+      Subject to the terms and conditions of this EULA, the Development License is perpetual. 
+Kordata is solely responsible for providing any and all support services for the Software. 
+Updates, bug fixes and upgrades to the Software may be provided by Kordata at its discretion at 
+timely intervals though Kordata does not commit to providing such updates or upgrades, and, if 
+so provided by Kordata, are provided upon the terms and conditions offered at that time by 
+Kordata.
+IV.	INTELLECTUAL PROPERTY. 
+      1.	Copyright.
+      You agree that all right, title, and interest in and to the Software (including, but not 
+limited to, any images, photographs, code examples and text incorporated into the Software), and 
+any copies of the Software, and any copyrights and other intellectual properties therein or related 
+thereto are owned exclusively by Kordata, except to the limited extent that Kordata may be the 
+rightful license holder of certain third-party technologies incorporated into the Software. The 
+Software is protected by copyright laws and international treaty provisions. The Software is 
+licensed to you, not sold to you. Kordata reserves all rights not otherwise expressly and 
+specifically granted to you in this EULA. 
+      2.	Backups.
+      You may make one copy the Software solely for backup or archival purposes.
+      3.	General Limitations.
+      You may not reverse engineer, decompile, or disassemble the Software, except and only 
+to the extent that applicable law expressly permits such activity notwithstanding this limitation. 
+      4.	Termination. 
+      Without prejudice to any other rights it may have, Kordata may terminate this EULA and 
+the Development License if you fail to comply with the terms and conditions contained herein. In 
+such an event, you must destroy all copies of the Software and all of its component parts. 
+V.	DISCLAIMER AND WARRANTIES.
+      1.	Disclaimer. 
+      Kordata's entire liability and your exclusive remedy under this EULA shall be, at 
+Kordata's sole option, to terminate this EULA or repair the Software through updates distributed 
+by Kordata via means chosen by Kordata in its sole discretion. Kordata cannot and does not 
+guarantee that any functions contained in the Software will meet your requirements, or that its 
+operations will be error free. The entire risk as to the Software performance or quality, or both, is 
+solely with the user and not Kordata. You assume responsibility for the selection of the 
+component to achieve your intended results, and for the installation, use, and results obtained 
+from the Software. No other individual or entity shall have any liability with respect to this 
+EULA or the Software. 
+      2.	Warranty. 
+      Kordata makes no warranty, to the maximum extent permitted by law, either implied or 
+expressed, including with-out limitation any warranty with respect to this Software documented 
+here, its quality, performance, or fitness for a particular purpose. In no event shall Kordata be 
+liable to you for damages, whether direct or indirect, incidental, special, or consequential arising 
+out the use of or any defect in the Software, even if Kordata has been advised of the possibility 
+of such damages, or for any claim by any other party. All other warranties of any kind, either 
+express or implied, including but not limited to the implied warranties of merchantability and 
+fitness for a particular purpose, are expressly excluded. No other individual or entity makes any 
+representation or warranty with respect to the Software.
+VI.	MISCELLANEOUS. 
+      1.	Entire Agreement. 
+      This EULA (including any addendum or amendment to this EULA included with the 
+Software) is the final, complete and exclusive statement of the entire agreement between you and 
+Kordata relating to the Software. This EULA supersedes any prior and contemporaneous 
+proposals, purchase orders, advertisements, and all other communications in relation to the 
+subject matter of this EULA, whether oral or written. No terms or conditions, other than those 
+contained in this EULA, and no other understanding or agreement which in any way modifies 
+these terms and conditions, shall be binding upon the parties unless entered into in writing 
+executed between the parties, or by other non-oral manner of agreement whereby the parties 
+objectively and definitively act in a manner to be bound (such as by continuing with an 
+installation of the Software, "clicking-through" a questionnaire, etc.) Employees, agents and 
+other representatives of Kordata are not permitted to orally modify this EULA. 
+      2.	Indemnification. 
+      You agree to indemnify, hold harmless, and defend Kordata and its suppliers and 
+resellers from and against any and all claims or lawsuits, including attorney's fees, that arise or 
+result from this EULA (including from any Developed Software). 
+      3.	Interpretation. 
+      If for any reason a court of competent jurisdiction finds any provision of this EULA, or 
+any portion thereof, to be unenforceable, that provision of this EULA will be enforced to the 
+maximum extent permissible so as to effect the intent of the parties, and the remainder of this 
+EULA will continue in full force and effect. Formatives of defined terms shall have the same 
+meaning of the defined term. Failure by either party to enforce any provision of this EULA will 
+not be deemed a waiver of future enforcement of that or any other provision. This EULA shall be 
+governed in all respects by the internal laws of the State of Idaho (excluding conflict of laws 
+principles) and without regard to the U.N. Convention on Contracts for the International Sale of 
+Goods. Any dispute regarding this EULA shall be subject to the exclusive jurisdiction of and 
+venue within the state or federal courts located in Ada County, Idaho, and you agree to submit to 
+the personal and exclusive jurisdiction and venue of these courts. 
